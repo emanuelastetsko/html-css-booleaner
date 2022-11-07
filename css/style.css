@@ -18,3 +18,19 @@
 .yellow{
     background-color: yellow;
 }
+
+tr{
+    text-align: left;
+}
+
+th{
+    color: white;
+}
+
+thead{
+    background-color: dodgerblue;
+}
+
+.lightblue{
+    background-color:lightskyblue;
+}
