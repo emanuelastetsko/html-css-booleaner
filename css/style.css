@@ -1,3 +1,19 @@
+body{
+    width: 50%;
+}
+#logo{
+    background-image: url("../img/pattern.png");
+    height: 170px;
+    background-color: dodgerblue;
+}
+
+div > img {
+    height: 40%;
+    width: auto;
+}
+
+
+
 #didascalia-titolo{
     color: grey;
     font-size: 80%;
@@ -33,4 +49,12 @@ thead{
 
 .lightblue{
     background-color:lightskyblue;
+}
+
+h4{
+    color: grey;
+}
+
+h3{
+    color: white;
 }
