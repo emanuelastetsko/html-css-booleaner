@@ -1,15 +1,19 @@
-body{
-    width: 50%;
+body {
+    width: 60%;
 }
 #logo{
     background-image: url("../img/pattern.png");
     height: 170px;
     background-color: dodgerblue;
+    position: relative;
 }
 
 div > img {
-    height: 40%;
+    height: 70px;
     width: auto;
+    position: absolute;
+    margin-top: 80px;
+    margin-right: 0px;
 }
 
 
@@ -57,6 +61,9 @@ h4{
 
 h3{
     color: white;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;
 }
 
 #monitor{
@@ -64,6 +71,7 @@ h3{
     background-repeat: no-repeat;
     height: 200px;
     width: auto;
+    position: relative;
 }
 
 #grafico{
@@ -71,4 +79,9 @@ h3{
     background-repeat: no-repeat;
     height: 200px;
     width: auto;
+    position: relative;
+}
+
+table{
+    border-collapse: collapse;
 }
