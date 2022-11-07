@@ -1,0 +1,96 @@
+body {
+    width: 50%;
+    margin: auto;
+}
+
+.center{
+    width: 90%;
+    margin: auto;
+}
+
+#logo{
+    background-image: url("../img/pattern.png");
+    height: 170px;
+    background-color: dodgerblue;
+    position: relative;
+}
+
+div > img {
+    height: 70px;
+    width: auto;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 75px;
+}
+
+
+
+#didascalia-titolo{
+    color: grey;
+    font-size: 80%;
+    width: 90%;
+    margin: auto;
+}
+
+.blue{
+    color: dodgerblue;
+}
+
+.data{
+    font-size: 70%;
+}
+
+.didascalia-foto{
+    font-size: 80%;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+tr{
+    text-align: left;
+}
+
+th{
+    color: white;
+}
+
+thead{
+    background-color: dodgerblue;
+}
+
+.lightblue{
+    background-color:lightskyblue;
+}
+
+h4{
+    color: grey;
+}
+
+h3{
+    color: white;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#monitor{
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+    width: auto;
+    position: relative;
+}
+
+#grafico{
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+    width: auto;
+    position: relative;
+}
+
+table{
+    border-collapse: collapse;
+}
